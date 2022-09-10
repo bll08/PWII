@@ -1,0 +1,20 @@
+*{
+    background-color: rgb(233, 233, 250);
+    font-family: 'Source Code Pro', sans-serif;
+}
+
+table, td, th {
+    border: 1px solid;
+}
+
+.linha_1{
+    background-color: aliceblue;
+}
+
+.linha{
+    background-color: antiquewhite;
+}
+
+#tabela > .linha_1{
+ 
+}
